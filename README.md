@@ -264,11 +264,3 @@ explanation = generate_explanation(
 ### 接入其他LLM
 
 修改 `src/analyst/llm_explainer.py` 中的API调用，适配OpenAI、Claude等。
-
-## 许可证
-
-MIT License
-
-## 联系方式
-
-如有问题或建议，请提交Issue或联系开发团队。
